@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://pajani.github.io/csb-ymz8yz/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://pajani.github.io/csb-ymz8yz/static/js/main.7c674531.chunk.js",
+    "main.js.map": "https://pajani.github.io/csb-ymz8yz/static/js/main.7c674531.chunk.js.map",
+    "runtime-main.js": "https://pajani.github.io/csb-ymz8yz/static/js/runtime-main.df8fcf4a.js",
+    "runtime-main.js.map": "https://pajani.github.io/csb-ymz8yz/static/js/runtime-main.df8fcf4a.js.map",
+    "static/js/2.ed8375ff.chunk.js": "https://pajani.github.io/csb-ymz8yz/static/js/2.ed8375ff.chunk.js",
+    "static/js/2.ed8375ff.chunk.js.map": "https://pajani.github.io/csb-ymz8yz/static/js/2.ed8375ff.chunk.js.map",
+    "index.html": "https://pajani.github.io/csb-ymz8yz/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://pajani.github.io/csb-ymz8yz/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.ed8375ff.chunk.js.LICENSE.txt": "https://pajani.github.io/csb-ymz8yz/static/js/2.ed8375ff.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.df8fcf4a.js",
+    "static/js/2.ed8375ff.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.7c674531.chunk.js"
+  ]
+}
